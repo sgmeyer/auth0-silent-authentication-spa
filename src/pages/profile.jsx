@@ -4,7 +4,9 @@ import ReactDom from 'react-dom';
 export default class Profile extends React.Component {
   render () {
     return (
-      hello
+      <div>
+        hello
+      </div>
     );
   }
 }
